@@ -1,9 +1,4 @@
-<h1 align="center">
-<img src="https://ntmaker.gfto.ru/gif//donez/z648c4734c5b98.gif" height="32"/></h1>
-
-<br />
-I'm a passionate Backend developer.
-
+![Описание](https://github.com/sigmaclap/sigmaclap/blob/main/header.png?raw=true)
 ## My stack
 Spring, MVN, SQL, PostgreSQL, Git, JDBC, JPA - Hibernate, Docker
 
