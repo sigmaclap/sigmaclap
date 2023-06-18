@@ -30,3 +30,5 @@ I'm currently working on Java. I like Java and especially Spring.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onlyshubinilya@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Mitsuomi/)
 
+![](https://komarev.com/ghpvc/?username=sigmaclap)
+
