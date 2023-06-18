@@ -22,8 +22,7 @@ I'm currently working on Java. I like Java and especially Spring.
 | "Group development" Spring Boot, MVN, SQL, H2, JDBC, REST | [![Filmorate](https://img.shields.io/static/v1?label=&message=Filmorate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sigmaclap/java-filmorate) |
 | HTTP, JSON, Java Core, Unit-тесты Rest-Client, KVServer | [![Kanban](https://img.shields.io/static/v1?label=&message=Kanban&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sigmaclap/java-kanban) |
 
-
-| <a href="https://github.com/sigmaclap/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sigmaclap&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sigmaclap's github stats" /></a> | <a href="https://github.com/sigmaclap/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigmaclap&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sigmaclap/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sigmaclap&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Sigmaclap's github stats" /></a> |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sigmaclap&layout=compact&theme=dracula)](https://github.com/sigmaclap/github-readme-stats) |
 | ------------- | ------------- |
 
 ## Contact me
