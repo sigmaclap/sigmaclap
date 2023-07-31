@@ -18,6 +18,7 @@ I'm currently working on Java. I like Java and especially Spring.
 
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
+| Java 11 (Core, Stream), Spring Boot, Hibernate, PostgreSQL, Maven, Lombok, Junit5, Mockito, Postman, Docker| [![Explore-With-Me](https://img.shields.io/static/v1?label=&message=Explore-With-Me&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sigmaclap/java-explore-with-me) |
 | Spring, MVN, SQL, PostgreSQL, ORM Hibernate JPA, MockMvc, Docker, H2 SQL, REST | [![Shareit](https://img.shields.io/static/v1?label=&message=ShareIt&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sigmaclap/java-shareit) |
 | "Group development" Spring Boot, MVN, SQL, H2, JDBC, REST | [![Filmorate](https://img.shields.io/static/v1?label=&message=Filmorate&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sigmaclap/java-filmorate) |
 | HTTP, JSON, Java Core, Unit-тесты Rest-Client, KVServer | [![Kanban](https://img.shields.io/static/v1?label=&message=Kanban&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/sigmaclap/java-kanban) |
